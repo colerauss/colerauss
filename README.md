@@ -42,9 +42,5 @@
 
 ### 📈 Estatísticas do GitHub
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=colerauss&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colerauss&layout=compact&theme=tokyonight" />
-</p>
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=colerauss&show_icons=true&theme=default" alt="Estatísticas do GitHub"/> </p>
 
